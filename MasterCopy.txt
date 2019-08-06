@@ -3,3 +3,5 @@ feature commit1
 feature commit2
 
 FIRST COMMIT
+
+SECOND COMMIT
