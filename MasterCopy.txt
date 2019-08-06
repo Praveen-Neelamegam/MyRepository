@@ -1,3 +1,4 @@
 master commit3
 feature commit1
 master commit2
+feature commit4
