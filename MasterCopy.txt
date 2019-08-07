@@ -1,7 +1,0 @@
-feature commit3
-feature commit1
-feature commit2
-
-FIRST COMMIT
-
-SECOND COMMIT
